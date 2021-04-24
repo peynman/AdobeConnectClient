@@ -1,5 +1,5 @@
 {
-    "name": "brunogasparetto/adobe-connect-client",
+    "name": "peynman/adobe-connect-client",
     "description": "PHP Cliente for Adobe Connect API",
     "keywords": ["PHP", "Adobe","Connect", "Client", "API"],
     "homepage": "https://github.com/brunogasparetto/AdobeConnectClient",
